@@ -1,17 +1,17 @@
 # Family-Bot
 
 <a href="https://visitor-badge.glitch.me/badge?page_id=Fokusdotid/Family-MD"><img title="Visitor" src="https://visitor-badge.glitch.me/badge?page_id=Fokusdotid/Family-MD"></a>
-<a href="https://github.com/Fokusdotid/Family-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Fokusdotid/Family-MD?label=Forks&color=blue&style=flat-square"></a>
-<a href="https://github.com/Fokusdotid/Family-MD/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/Fokusdotid/Family-MD?label=Watchers&color=green&style=flat-square"></a>
-<a href="https://github.com/Fokusdotid/Family-MD/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/Fokusdotid/Family-MD?label=Stars&color=yellow&style=flat-square"></a>
-<a href="https://github.com/Fokusdotid/Family-MD/graphs/contributors"><img title="Contributors" src="https://img.shields.io/github/contributors/Fokusdotid/Family-MD?label=Contributors&color=blue&style=flat-square"></a>
-<a href="https://github.com/Fokusdotid/Family-MD/issues"><img title="Issues" src="https://img.shields.io/github/issues/Fokusdotid/Family-MD?label=Issues&color=success&style=flat-square"></a>
-<a href="https://github.com/Fokusdotid/Family-MD/issues?q=is%3Aissue+is%3Aclosed"><img title="Issues" src="https://img.shields.io/github/issues-closed/Fokusdotid/Family-MD?label=Issues&color=red&style=flat-square"></a>
-<a href="https://github.com/Fokusdotid/Family-MD/pulls"><img title="Pull Request" src="https://img.shields.io/github/issues-pr/Fokusdotid/Family-MD?label=PullRequest&color=success&style=flat-square"></a>
-<a href="https://github.com/Fokusdotid/Family-MD/pulls?q=is%3Apr+is%3Aclosed"><img title="Pull Request" src="https://img.shields.io/github/issues-pr-closed/Fokusdotid/Family-MD?label=PullRequest&color=red&style=flat-square"></a>
+<a href="https://github.com/Ismanbotz/Isman-Md1/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Ismanbotz/Isman-Md1?label=Forks&color=blue&style=flat-square"></a>
+<a href="https://github.com/Ismanbotz/Isman-Md1/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/Ismanbotz/Isman-Md1?label=Watchers&color=green&style=flat-square"></a>
+<a href="https://github.com/Ismanbotz/Isman-Md1/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/Ismanbotz/Isman-Md1?label=Stars&color=yellow&style=flat-square"></a>
+<a href="https://github.com/Ismanbotz/Isman-Md1/graphs/contributors"><img title="Contributors" src="https://img.shields.io/github/contributors/Ismanbotz/Isman-Md1?label=Contributors&color=blue&style=flat-square"></a>
+<a href="https://github.com/Ismanbotz/Isman-Md1/issues"><img title="Issues" src="https://img.shields.io/github/issues/Ismanbotz/Isman-Md1?label=Issues&color=success&style=flat-square"></a>
+<a href="https://github.com/Ismanbotz/Isman-Md1/issues?q=is%3Aissue+is%3Aclosed"><img title="Issues" src="https://img.shields.io/github/issues-closed/Ismanbotz/Isman-Md1?label=Issues&color=red&style=flat-square"></a>
+<a href="https://github.com/Ismanbotz/Isman-Md1/pulls"><img title="Pull Request" src="https://img.shields.io/github/issues-pr/Ismanbotz/Isman-Md1?label=PullRequest&color=success&style=flat-square"></a>
+<a href="https://github.com/Ismanbotz/Isman-Md1/pulls?q=is%3Apr+is%3Aclosed"><img title="Pull Request" src="https://img.shields.io/github/issues-pr-closed/Ismanbotz/Isman-Md1?label=PullRequest&color=red&style=flat-square"></a>
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Fokusdotid/Family-MD)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ismanbotz/Isman-Md1)
 ## Join Group Diskusi
 [![BOT DISCUSSION GROUP](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/Fm6gRtvuCDN9abXVlfekAK) 
 **NO BOT**
@@ -27,8 +27,8 @@
 * Unduh & Instal ImageMagick [`Klik Disini`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/Fokusdotid/Family-MD.git
-cd Family-MD
+git clone https://github.com/Ismanbotz/Isman-Md1.git
+cd Isman-Md1
 npm i
 node .
 ```
@@ -45,8 +45,8 @@ $ apt update && upgrade -y
 $ pkg install ffmpeg
 $ pkg install nodejs-lts
 $ pkg install git
-$ git clone https://github.com/Fokusdotid/Family-MD.git
-$ cd Family-MD
+$ git clone https://github.com/ismanbotz/Isman-Md1.git
+$ cd Isman-Md1
 $ npm i
 $ node .
 ```
@@ -73,7 +73,7 @@ Lebih baik baca `Q&A.txt` di folder main okey
 
 menggunakan session dari nama file yang berbeda, default `session.data.json`
 
-contoh nama file `family.json` maka penggunaannya `node . --session 'family'`
+contoh nama file `isman.json` maka penggunaannya `node . --session 'isman'`
 
 ### `--prefix <prefix>`
 
