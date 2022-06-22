@@ -19,8 +19,7 @@ const defaultMenu = {
 │
 ├ Uptime: *%uptime (%muptime)*
 ├ Database: %rtotalreg dari %totalreg
-├ Github:
-├ %github
+├ Github: https://github.com/IsmanBotz/Isman-Md1
 └────
 %readmore`.trim(),
   header: '┌─〔 %category 〕',
